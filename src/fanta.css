@@ -615,6 +615,7 @@ details[open] summary {
   color: var(--color-primary);
   padding: 1rem;
   border-radius: 0.5rem;
+  cursor: pointer;
 }
 
 .card {
